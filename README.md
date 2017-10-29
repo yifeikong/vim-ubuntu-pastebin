@@ -36,5 +36,5 @@ If you want to learn write vim plugin use python, see this youtube radio [Writin
 
 
 ## 中文简介:
-如果你和我一样记性不好老是记不住scp命令怎么使的，可以试试直接安装这个插件之后在vim里执行 `:Pastebin` ，代码会自动贴到http://paste.ubuntu.com然后自动打开浏览器。
+如果你和我一样记性不好老是记不住scp命令怎么使的，可以试试直接安装这个插件之后在vim里执行 `:Pastebin` ，代码会自动贴到http://paste.ubuntu.com, 然后自动打开浏览器。
 如果你对怎么用python写vim插件有兴趣可以参考以上油管视频链接或者我的博客。
